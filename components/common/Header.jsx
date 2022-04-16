@@ -10,7 +10,7 @@ const Header = () => {
 
                 {/*search nft here */}
 
-                <div className='bg-white rounded-full w-[400px] py-[7px] px-3 text-black ml-5'>
+                <div className='bg-white rounded-full w-[400px] py-[7px] px-3 text-black ml-10'>
                     <SearchIcon className='text-secondary mr-2' />
                     <input placeholder="Search collectibles and collections" className='w-[80%] outline-none focus:outline-none' />
                 </div>
