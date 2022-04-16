@@ -81,7 +81,6 @@ const theme = createTheme({
             styleOverrides: {
                 root: {
                     background: 'white',
-                    borderRadius: '10px',
                     height: '48px',
                 },
                 multiline: {
