@@ -1,5 +1,5 @@
 import React from 'react'
-import EventSwiper from '../../common/EventSwiper'
+import EventSwiper from './EventSwiper'
 
 const Home = () => {
     return (
