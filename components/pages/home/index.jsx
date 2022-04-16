@@ -1,4 +1,5 @@
 import React from 'react'
+import EventSwiper from '../../common/EventSwiper'
 
 const Home = () => {
     return (
@@ -9,6 +10,7 @@ const Home = () => {
                 </div>
                 <div className="text-xl mt-5">from leading creators and brands</div>
             </div>
+            <EventSwiper />
         </div>
     )
 }
