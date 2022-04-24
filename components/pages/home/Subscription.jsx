@@ -5,7 +5,7 @@ const Subscription = () => {
     return (
         <div className='h-[475px] bg-subscribe-bg mt-16 bg-cover py-10'>
             <div className="Container text-center space-y-7 font-medium">
-                <div className="text-5xl">Never miss a drop</div>
+                <div className="heading">Never miss a drop</div>
                 <div className="text-3xl">Subscribe for the latest news, drops & collectibles</div>
                 <div className="w-[40rem] m-auto space-y-7">
                     <div className="flex">
