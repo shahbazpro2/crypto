@@ -2,6 +2,7 @@ import React from 'react'
 import EventSwiper from './EventSwiper'
 import Subscription from './Subscription'
 import TopCollections from './TopCollections'
+import TopCreators from './TopCreators'
 
 const Home = () => {
     return (
@@ -18,6 +19,7 @@ const Home = () => {
             <Subscription />
             <div className="Container">
                 <TopCollections />
+                <TopCreators />
             </div>
         </>
     )
