@@ -14,7 +14,7 @@ body {
 }
 
 .Container {
-  @apply container mx-auto py-10;
+  @apply container mx-auto py-10 px-36;
 }
 
 .sw-wrapper {

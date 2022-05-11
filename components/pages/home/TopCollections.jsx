@@ -7,7 +7,7 @@ const TopCollections = () => {
         <div className='py-10'>
             <div className="heading text-center">Top Collections</div>
             <div className="flex justify-between items-center">
-                <div className="mt-5 flex items-center">
+                <div className="mt-16 flex items-center">
                     Sort By&nbsp;&nbsp;&nbsp;&nbsp;
                     <select>
                         <option>Sales Volume</option>

@@ -8,7 +8,7 @@ const TopCreators = () => {
         <div className='py-20 text-center space-y-10'>
             <Button startIcon={<StarsIcon />} variant="contained" className='primary-gradient rounded-full px-5 py-2 text-lg'>Best Selling</Button>
             <div className="heading text-center">Top Creators</div>
-            <div className="mt-5">
+            <div className="mt-16">
                 <div className="grid grid-cols-6">
                     <div className="space-y-3">
                         <img className='rounded-full m-auto h-[150px] w-[150px]' src="/assets/images/creator1.jpeg" alt="creator" />
